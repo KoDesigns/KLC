@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 46 26">
+    <g>
+        <path d="M 0 0 L 46 0 L 46 26 L 0 26 Z" fill="transparent"></path>
+        <path d="M 0 23.998 L 22.79 17.328 L 45.574 23.998 L 22.79 10.666 Z" fill="rgb(26,184,209)"></path>
+        <path d="M 0 26 L 22.79 25.904 L 45.575 26 L 22.79 20.948 Z" fill="rgb(26,184,209)"></path>
+        <path d="M 22.834 0.044 L 22.784 0 L 0 22.166 L 22.783 6.116 L 45.573 22.166 Z"
+            fill="rgb(232,138,0)"></path>
+    </g>
+</svg>
