@@ -16,20 +16,6 @@ A curated collection of high-quality SVG logos from development tools and platfo
 
 Browse the `2025/` folder and download the SVG files you need. All logos are optimized and ready to use in your projects.
 
-## Repository structure
-
-```
-├── README.md           # This file
-└── 2025/              # Logo files
-    ├── ollama_Logo.svg
-    ├── CrewAi-Logo.svg
-    ├── javascript-logo.svg
-    ├── python-logo-only.svg
-    ├── svelte-logo-square.svg
-    ├── comfy-logo-single.svg
-    └── OpenAI-black-monoblossom.svg
-```
-
 ## Contributing
 
 Want to add a logo? 
