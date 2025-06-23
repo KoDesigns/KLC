@@ -2,16 +2,6 @@
 
 A curated collection of high-quality SVG logos from development tools and platforms.
 
-## What's included
-
-- **Ollama** - Local AI model runner
-- **CrewAI** - Multi-agent AI framework  
-- **JavaScript** - Programming language
-- **Python** - Programming language
-- **Svelte** - Web framework
-- **ComfyUI** - AI image generation interface
-- **OpenAI** - AI research company
-
 ## Usage
 
 Browse the `2025/` folder and download the SVG files you need. All logos are optimized and ready to use in your projects.
