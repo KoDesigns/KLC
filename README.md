@@ -12,8 +12,7 @@ Want to add a logo?
 
 1. Fork this repository
 2. Add your SVG file to the appropriate year folder
-3. Update this README with the new logo
-4. Submit a pull request
+3. Submit a pull request
 
 ## License
 
